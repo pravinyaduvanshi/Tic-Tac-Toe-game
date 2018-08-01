@@ -13,8 +13,8 @@ Tic Tac Toe game built using HTML/JavaScript/CSS
 
 It displays one of the following outcomes:
 
-*Winner: Player X
+-Winner: Player X
 
-*Winner: Player O
+-Winner: Player O
 
-*Draw
+-Draw
