@@ -12,6 +12,9 @@ Tic Tac Toe game built using HTML/JavaScript/CSS
 4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 
 It displays one of the following outcomes:
+
 *Winner: Player X
+
 *Winner: Player O
+
 *Draw
