@@ -7,7 +7,7 @@ var gridValue = 0;
 
 function fnLoad() {
     var select = document.getElementById("grid");
- if(i=3)/** for (i = 3; i <=4 ; i += 1)   **/ {
+ if(i=3){
         var option = document.createElement('option');
         select.options[select.options.length] = new Option(i + ' X ' + i, i);
     }
